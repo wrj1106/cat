@@ -7,7 +7,7 @@
 
 {"key":"JS豆瓣","name":"🎬️|豆瓣热榜","type":3,"api":"./tvbox/js/lib/drpy2.min.js","ext":"./tvbox/js/site/drpy.js"},
 
-{"key":"SP_XPGY","name":"🍎|小苹果源","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
+{"key":"SP_XPGY","name":"🍎|小苹果源","type":"3","api":"csp_Dora","playerType":1,"searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
 {"key":"SP_CZYS","name":"👷|厂长影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
 {"key":"SP_TTYS","name":"🖼️|图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"SP_LBYS","name":"🍶|李白影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
@@ -21,8 +21,6 @@
 {"key":"SP_AKYS","name":"❤️|爱看影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 {"key":"SP_DDYS","name":"⏮️️|低端影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
 {"key":"SP_PHYS","name":"🐯|胖虎影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
-{"key":"XT_XLYY","name":"🦄|小路影院","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K专区",]},
-{"key":"XT_FMYY","name":"🐈|肥猫影院","type":1,"playerType":2,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Paper","name":"📜|阿里纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php"},
 {"key":"Yiso","name":"🔍|阿里易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php"},
 {"key":"zhaozy","name":"📺|阿里资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php$$$wrj1106$$$wrj123456."},
