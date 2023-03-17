@@ -1,5 +1,5 @@
 {
-"spider":"./tvbox/jar/0306.jar;md5;c7a548f950e99c50a3465918f2aab475",
+"spider":"./tvbox/jar/0314.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
 "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"./tvbox/live.txt","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"http://diyp.112114.xyz/logo/{name}.png"}],
 "sites":[
